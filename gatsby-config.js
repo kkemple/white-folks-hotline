@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `White Folks Hotline`,
-    description: `Black Lives Matter`,
+    description: `The White Folks Hotline was inspired by Tatiana Mac’s Twitter thread about how we need more white dudes (or folks) to take part in educating other white folk about issues of race, racism, gender, orientation, or ethics in tech. #BlackLivesMatter`,
     author: ``,
   },
   plugins: [
